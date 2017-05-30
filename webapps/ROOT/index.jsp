@@ -105,7 +105,7 @@
 								out.println("<a class=\"order-button\" href=\"placeorder.jsp?id="
 										+ product.getId()
 										+ "\" title=\"Order "
-										+ product.getName() + "\">Order Now</a>");
+										+ product.getName() + "\">Order STAT!! I NEEDS COFFEEEEEEEEE!</a>");
 								out.println("</div></li>");
 							}
 						} catch (Exception e) {
