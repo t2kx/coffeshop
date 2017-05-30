@@ -17,12 +17,12 @@
 	<div id="page">
 		<header>
 		<p class="site-title">
-			<a href="">Coffee Shop</a>
+			<a href="">Mike's Coffee Shop</a>
 		</p>
 		<nav>
 		<ul>
-			<li><a href="index.jsp">Home</a></li>
-			<li><a href="about.jsp">About Us</a></li>
+			<li><a href="index.jsp">No Place Like Home</a></li>
+			<li><a href="about.jsp">All About Us</a></li>
 		</ul>
 		</nav> </header>
 		<div id="body">
