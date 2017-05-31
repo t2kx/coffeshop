@@ -26,5 +26,24 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="Application Insights for Java">
+        <CLASSES>
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/azure-toolkit-for-intellij/lib/annotation-detector-3.0.4.jar!/" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/azure-toolkit-for-intellij/lib/applicationinsights-core-1.0.3.jar!/" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/azure-toolkit-for-intellij/lib/applicationinsights-management-1.0.3.jar!/" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/azure-toolkit-for-intellij/lib/applicationinsights-web-1.0.3.jar!/" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/azure-toolkit-for-intellij/lib/commons-codec-1.10.jar!/" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/azure-toolkit-for-intellij/lib/commons-io-2.5.jar!/" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/azure-toolkit-for-intellij/lib/commons-lang3-3.4.jar!/" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/azure-toolkit-for-intellij/lib/commons-logging-1.1.3.jar!/" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/azure-toolkit-for-intellij/lib/guava-20.0.jar!/" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/azure-toolkit-for-intellij/lib/httpclient-4.3.6.jar!/" />
+          <root url="jar://$APPLICATION_PLUGINS_DIR$/azure-toolkit-for-intellij/lib/httpcore-4.3.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
